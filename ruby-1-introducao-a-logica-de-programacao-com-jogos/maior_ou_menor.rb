@@ -1,0 +1,1 @@
+puts "Bem vindo(a) ao jogo da adivinhação"
