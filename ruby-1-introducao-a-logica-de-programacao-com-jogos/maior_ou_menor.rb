@@ -3,4 +3,4 @@ puts "Bem vindo(a) ao jogo da adivinhação"
 puts "Qual é o seu nome?"
 nome = gets
 3.times do puts end
-puts "Começaremos o jogo pra você, #{nome}"
+puts "Começaremos o jogo pra você, " + nome
